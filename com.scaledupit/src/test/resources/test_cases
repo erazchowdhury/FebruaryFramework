@@ -3,3 +3,10 @@ Click MyAccount button
 Input email in email/username field
 Input password in password field
 Click Log In button
+
+2.Add item to cart
+Open browser
+Navigate to URL
+Click "Add to Cart" button for "Light Shoes"
+Click "View Cart" button for Light Shoes
+Assert on Item Name in Shopping Cart
