@@ -17,7 +17,7 @@
     </groups>
 
     <classes>
-        <class name="system.authentication.TestAuthentication"/>
+        <class name="system.authentication.TestAuthenticationFreeCRM"/>
         <class name="system.shopping_cart.TestShoppingCart"/>
     </classes>
     </test>

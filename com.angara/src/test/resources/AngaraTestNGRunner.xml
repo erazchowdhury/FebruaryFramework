@@ -7,7 +7,7 @@
     </listeners>
 
     <parameter name="browser" value="chrome"/>
-    <parameter name="url" value="https://ui.freecrm.com"/>
+    <parameter name="url" value="https://www.angara.com"/>
 
     <test name="Smoke">
     <groups>
@@ -17,7 +17,7 @@
     </groups>
 
     <classes>
-        <class name="system.authentication.TestAuthenticationFreeCRM"/>
+<!--        <class name="system.authentication.TestAuthentication"/>-->
     </classes>
     </test>
 

@@ -6,7 +6,7 @@ import base.BasePage;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class TestAuthentication extends BasePage {
+public class TestAuthenticationFreeCRM extends BasePage {
 
     @Test (groups = {"smoke", "authentication"})
     public void testLogin(){
